@@ -1,0 +1,7 @@
+G:\VS Projects\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+G:\VS Projects\Lab5\Lab5\bin\Debug\Lab5.exe.config
+G:\VS Projects\Lab5\Lab5\bin\Debug\Lab5.exe
+G:\VS Projects\Lab5\Lab5\bin\Debug\Lab5.pdb
+G:\VS Projects\Lab5\Lab5\obj\Debug\Lab5.exe
+G:\VS Projects\Lab5\Lab5\obj\Debug\Lab5.pdb
+G:\VS Projects\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
